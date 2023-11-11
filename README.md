@@ -1,4 +1,6 @@
-# Random-Quote-Generator
-freeCodeCamp Front-end React Project
----
-This repo is in codepen format, so just copy into respective panels of codepen and you are good to go!
+# Random Quote Generator
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/JoyJinx/pen/PoVprmM](https://codepen.io/JoyJinx/pen/PoVprmM).
+
+freeCodeCamp front-end React project #1
+Fetching API and generating some random quote with author name.
